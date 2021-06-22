@@ -20,7 +20,11 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - [R Code Club](https://riffomonas.org/code_club/) by @PatSchloss
 
-- [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/) by @jessica_a_nash @ARingerMcDonald 
+- [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/) by @jessica_a_nash @ARingerMcDonald
+
+- [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/) by @Bioinfodotca *Past workshop content is available under a Creative Commons License [here](https://bioinformatics.ca/workshops/workshops-2018/) or [here](https://www.youtube.com/channel/UCKbkfKk65PZyRCzUwXOJung).
+
+- [Bioinformatics Algorithms: An Active Learning Approach](https://www.youtube.com/c/bioinfalgorithms/playlists) + http://rosalind.info/problems/locations/
 
 Plus, check out this list of bioinformatics books: https://www.biostars.org/p/181/
 
