@@ -4,7 +4,7 @@ In June 2020, I started to learn how to (properly!) compute the microbiome data.
 
 Here, I'm collecting online resources that made this learning journey easier and fun.
 
-WIP: While learning, I'm updating this collection. If you have some of your favourite bioinformatics learning material, feel free to let me know.
+WIP: Still learning and updating this collection! If you have some of your favourite bioinformatics learning material, feel free to let me know.
 
 KUDOS to all bioinformaticians and computational scientists who are sharing their knowledge!
 
