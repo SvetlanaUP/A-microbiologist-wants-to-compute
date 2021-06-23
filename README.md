@@ -8,6 +8,8 @@ WIP: Still learning and updating this collection! If you have some of your favou
 
 KUDOS to all bioinformaticians and computational scientists who are sharing their knowledge!
 
+✅ PARTICULARLY worked for me
+
 ## Bioinformatics for beginners
 
 - [Biostar Handbook](https://www.biostarhandbook.com/) by István Albert
@@ -18,7 +20,7 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) by @anishathalye @jonhoo @jjgort
 
-- [R Code Club](https://riffomonas.org/code_club/) by @PatSchloss
+- ✅ [Code Club](https://riffomonas.org/code_club/) by @PatSchloss
 
 - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/) by @jessica_a_nash @ARingerMcDonald
 
@@ -32,9 +34,7 @@ Plus, check out this list of bioinformatics books: https://www.biostars.org/p/1
 
 ## Shell
 
-- [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
-
-- [Code Club](https://riffomonas.org/code_club/) by Pat Schloss
+- ✅ [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) by @anishathalye @jonhoo @jjgort
 
@@ -42,7 +42,7 @@ Plus, check out this list of bioinformatics books: https://www.biostars.org/p/1
 
 ## Git and GitHub
 
-- [Git for Scientists](https://www.youtube.com/watch?v=40n7A705TAg) by Simon Cockell
+- ✅ [Git for Scientists](https://www.youtube.com/watch?v=40n7A705TAg) by Simon Cockell
 
 - [LCSB-BioCore/basic-git-practice](https://github.com/LCSB-BioCore/basic-git-practice) + [slides](https://courses.lcsb.uni.lu/2021-03-18_basicGitTraining/stable/#/)
 
@@ -52,7 +52,7 @@ Plus, check out this list of bioinformatics books: https://www.biostars.org/p/1
 
 - [30 Days of Python](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6) by Justin Mitchel *first 8 lessons
 
-- [LxMLS2020 Intro to Python](https://www.youtube.com/watch?v=t3ipChpkYgc&list=PLam4sUtHYhYBPHSvRQrw8JVMRZgkEYLRn) by Luis Pedro Coelho 
+- ✅ [LxMLS2020 Intro to Python](https://www.youtube.com/watch?v=t3ipChpkYgc&list=PLam4sUtHYhYBPHSvRQrw8JVMRZgkEYLRn) by Luis Pedro Coelho 
 
 - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
 
