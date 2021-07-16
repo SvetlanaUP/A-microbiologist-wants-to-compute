@@ -40,6 +40,8 @@ Plus, check out this list of bioinformatics books: https://www.biostars.org/p/1
 
 - [UNIX crash course](https://astrobiomike.github.io/unix/unix-intro) by @AstrobioMike
 
+- [Basic Linux commands](https://www.reddit.com/r/linux/comments/b4khut/basic_linux_commands/)
+
 ## Git and GitHub
 
 - ✅ [Git for Scientists](https://www.youtube.com/watch?v=40n7A705TAg) by Simon Cockell
