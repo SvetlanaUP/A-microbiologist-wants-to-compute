@@ -30,7 +30,12 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - Rosalind [exercises](http://rosalind.info/problems/locations/)
 
-Plus, check out this list of bioinformatics books: https://www.biostars.org/p/181/
+Plus, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/)
+
+& **podcasts**:
+- ✅ [The bioinformatics chat](https://bioinformatics.chat/) produced by Roman Cheplyaka and hosted by Roman and Jacob Schreiber
+- [The Bioinformatics and Beyond Podcast](https://anchor.fm/bioinfopod/) by Leo Elworth
+    * [Wet Lab / Dry Lab Transitioning with Dr. Willian da Silveira](https://anchor.fm/bioinfopod/episodes/Wet-Lab--Dry-Lab-Transitioning-with-Dr--Willian-da-Silveira-e10uukh)
 
 ## Shell
 
