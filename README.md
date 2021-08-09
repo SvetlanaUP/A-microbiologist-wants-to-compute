@@ -53,6 +53,8 @@ Plus, check out this list of **bioinformatics books** [here](https://www.biostar
 
 - ✅ [Git for Scientists](https://www.youtube.com/watch?v=40n7A705TAg) by Simon Cockell
 
+- ✅ [Git: Reference Sheet](https://support.nesi.org.nz/hc/en-gb/articles/360001508515-Git-Reference-Sheet)
+
 - [LCSB-BioCore/basic-git-practice](https://github.com/LCSB-BioCore/basic-git-practice) + [slides](https://courses.lcsb.uni.lu/2021-03-18_basicGitTraining/stable/#/)
 
 - [Git for humans](https://orchid00.github.io/git_for_humans/007_resources.html)
