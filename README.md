@@ -13,7 +13,7 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 ## Bioinformatics for beginners
 
 - ✅ [Code Club](https://riffomonas.org/code_club/) by @PatSchloss
-- 
+
 - ✅ [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by @SherlockpHolmes and @wolfgangkhuber
 
 - [Biostar Handbook](https://www.biostarhandbook.com/) by István Albert
