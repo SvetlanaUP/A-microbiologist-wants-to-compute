@@ -73,30 +73,32 @@ Plus, check out this list of **bioinformatics books** [here](https://www.biostar
 
 ## Matplotlib cheatsheets
 
-https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf
+- [Cheatsheets](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
 
-https://matplotlib.org/tutorials/introductory/sample_plots.html
+- [Sample plots](https://matplotlib.org/tutorials/introductory/sample_plots.html)
 
-https://matplotlib.org/gallery/lines_bars_and_markers/simple_plot.html
+- [Simple plits](https://matplotlib.org/gallery/lines_bars_and_markers/simple_plot.html)
 
-https://matplotlib.org/gallery/index.html
+- [Gallery](https://matplotlib.org/gallery/index.html]
 
 ## Pandas
 
-[Pandas Dataframe: Plot Examples with Matplotlib and Pyplot](https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot)
+- [Pandas Dataframe: Plot Examples with Matplotlib and Pyplot](https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot)
 
-[Using Pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
+- [Using Pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
 
-[Pandas cheat sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
+- [Pandas cheat sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 
-[Pandas cheat sheet2](https://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
+- [Pandas cheat sheet2](https://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
 
-[8 Python Pandas Value_counts() tricks that make your work more efficient](https://re-thought.com/pandas-value_counts/)
+- [8 Python Pandas Value_counts() tricks that make your work more efficient](https://re-thought.com/pandas-value_counts/)
 
-[10 min to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [10 min to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
 
 ## Machine Learning
 
-[A visual introduction to machine learning](http://www.r2d3.us/) by @stephaniejyee and @tonyhschu
+- [A visual introduction to machine learning](http://www.r2d3.us/) by @stephaniejyee and @tonyhschu
+
+- [How to Critically Evaluate Machine Learning Methods](https://www.youtube.com/watch?v=HrInkiETiHE) by @tpq__
  
