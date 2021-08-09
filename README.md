@@ -77,9 +77,9 @@ Plus, check out this list of **bioinformatics books** [here](https://www.biostar
 
 - [Sample plots](https://matplotlib.org/tutorials/introductory/sample_plots.html)
 
-- [Simple plits](https://matplotlib.org/gallery/lines_bars_and_markers/simple_plot.html)
+- [Simple plot](https://matplotlib.org/gallery/lines_bars_and_markers/simple_plot.html)
 
-- [Gallery](https://matplotlib.org/gallery/index.html]
+- [Gallery](https://matplotlib.org/gallery/index.html)
 
 ## Pandas
 
