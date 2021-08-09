@@ -12,6 +12,10 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 ## Bioinformatics for beginners
 
+- ✅ [Code Club](https://riffomonas.org/code_club/) by @PatSchloss
+- 
+- ✅ [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by @SherlockpHolmes and @wolfgangkhuber
+
 - [Biostar Handbook](https://www.biostarhandbook.com/) by István Albert
 
 - [Bioinformatics data skills](https://github.com/vsbuffalo/bds-files) by @vsbuffalo 
@@ -19,8 +23,6 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 - [Examples from Practical computing for biologists](https://practicalcomputing.org/downloads.html) by @caseywdunn @beroe
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) by @anishathalye @jonhoo @jjgort
-
-- ✅ [Code Club](https://riffomonas.org/code_club/) by @PatSchloss
 
 - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/) by @jessica_a_nash @ARingerMcDonald
 
