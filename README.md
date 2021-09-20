@@ -10,6 +10,17 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 ✅ PARTICULARLY worked for me
 
+
+## [What is a bioinformatics postdoc?](https://www.youtube.com/watch?v=fWmmPcyyAbM&t=4s) 
+The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, Philipp Bayer, Thomas Quinn, Ignatius Pang answering questions such as:
+  - What is a bioinformatics postdoc?
+  - Tips for landing a postdoc position?
+  - Finding a mentor?
+  - What are the challenges?
+  - How to handle these challenges?
+
+
+
 ## Bioinformatics for beginners
 
 - ✅ [Code Club](https://riffomonas.org/code_club/) by @PatSchloss
