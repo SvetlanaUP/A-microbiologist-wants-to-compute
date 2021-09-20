@@ -117,7 +117,7 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
 
 - [How to Critically Evaluate Machine Learning Methods](https://www.youtube.com/watch?v=HrInkiETiHE) by @tpq__
 
-- **A guide to machine learning for biologists** by Greener, J.G., Kandathil, S.M., Moffat, L. et al. [Nat Rev Mol Cell Biol (2021)](https://doi.org/10.1038/s41580-021-00407-0)
+- [A guide to machine learning for biologists](https://doi.org/10.1038/s41580-021-00407-0) by Greener, J.G., Kandathil, S.M., Moffat, L. et al. Nat Rev Mol Cell Biol (2021)
 
-- [Machine Learning for Biology](https://carpentries-incubator.github.io/ml4bio-workshop/)
+- [Machine Learning for Biology](https://carpentries-incubator.github.io/ml4bio-workshop/) ml4bio-workshop
  
