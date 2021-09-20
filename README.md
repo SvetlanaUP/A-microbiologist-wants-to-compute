@@ -33,20 +33,26 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - Rosalind [exercises](http://rosalind.info/problems/locations/)
 
-PlUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/)
+PLUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/),
 
-& 📻 **podcasts**:
-- ✅ [The bioinformatics chat](https://bioinformatics.chat/) produced by Roman Cheplyaka and hosted by Roman and Jacob Schreiber
-- [The Bioinformatics and Beyond Podcast](https://anchor.fm/bioinfopod/) by Leo Elworth
-    * [Wet Lab / Dry Lab Transitioning with Dr. Willian da Silveira](https://anchor.fm/bioinfopod/episodes/Wet-Lab--Dry-Lab-Transitioning-with-Dr--Willian-da-Silveira-e10uukh)
+📻 **podcasts**:
+    
+   - ✅ [The bioinformatics chat](https://bioinformatics.chat/) produced by Roman Cheplyaka and hosted by Roman and Jacob Schreiber  
+    
+   - [The Bioinformatics and Beyond Podcast](https://anchor.fm/bioinfopod/) by Leo Elworth and Ep: [Wet Lab / Dry Lab Transitioning with Dr. Willian da Silveira](https://anchor.fm/bioinfopod/episodes/Wet-Lab--Dry-Lab-Transitioning-with-Dr--Willian-da-Silveira-e10uukh)
 
 & [What is a bioinformatics postdoc?](https://www.youtube.com/watch?v=fWmmPcyyAbM&t=4s) 
-The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, Philipp Bayer, Thomas Quinn, Ignatius Pang answering questions such as:
-  - What is a bioinformatics postdoc?
-  - Tips for landing a postdoc position?
-  - Finding a mentor?
-  - What are the challenges?
-  - How to handle these challenges?
+The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, Philipp Bayer, Thomas Quinn, Ignatius Pang answering questions such as:  
+    
+    What is a bioinformatics postdoc?
+    
+    Tips for landing a postdoc position?
+    
+    Finding a mentor?
+    
+    What are the challenges?
+    
+    How to handle these challenges?
 
 ## Shell
 
