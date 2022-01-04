@@ -54,9 +54,9 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
     
     How to handle these challenges?
 
+![alt text](https://media.nature.com/lw800/magazine-assets/d41586-021-01485-y/d41586-021-01485-y_19217532.jpg)
 [A cartoon guide to bioinformatics by a novice coder](https://www.nature.com/articles/d41586-021-01485-y) by Ed Himelblau
 
-![alt text](https://media.nature.com/lw800/magazine-assets/d41586-021-01485-y/d41586-021-01485-y_19217532.jpg)
 
 ## Shell
 
