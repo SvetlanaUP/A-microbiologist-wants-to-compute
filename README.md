@@ -33,6 +33,8 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - Rosalind [exercises](http://rosalind.info/problems/locations/)
 
+- [2021 Microbiome Informatics Webinars](https://www.youtube.com/playlist?list=PLiiqmjBmdWoPiBdoAmwtbnRm2Vj1BO_gO) by OSU Center of Microbiome Science
+
 PLUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/),
 
 📻 **podcasts**:
