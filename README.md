@@ -81,6 +81,8 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
 
 - [Git for humans](https://orchid00.github.io/git_for_humans/007_resources.html)
 
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 - [Understand how to write a good commit message through memes 😉](https://medium.com/@hritik.jaiswal/how-to-write-a-good-commit-message-9d2d533b9052) by Hritik Jaiswal
 ![alt text](https://miro.medium.com/max/1400/1*gwlr9npJkP4TUSNvUNfEhA.png)
 
