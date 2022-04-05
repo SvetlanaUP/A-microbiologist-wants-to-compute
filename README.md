@@ -98,6 +98,8 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
 
 - [A Gentle Introduction to Data Science with Python](https://github.com/um-dang/intro-python-16S-analysis)
 
+- ✅ [Tips & tricks for large scale processing with Python](https://github.com/BigDataBiology/talk-tips-n-tricks-large-python) by Big Data Biology Lab
+
 ## Matplotlib cheatsheets
 
 - [Cheatsheets](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
