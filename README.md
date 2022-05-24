@@ -77,6 +77,8 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
 
 - ✅ [Git: Reference Sheet](https://support.nesi.org.nz/hc/en-gb/articles/360001508515-Git-Reference-Sheet)
 
+- [Learn Git Branching](https://learngitbranching.js.org/) - the most visual and interactive way to learn Git on the web.
+
 - [LCSB-BioCore/basic-git-practice](https://github.com/LCSB-BioCore/basic-git-practice) + [slides](https://courses.lcsb.uni.lu/2021-03-18_basicGitTraining/stable/#/)
 
 - [Git for humans](https://orchid00.github.io/git_for_humans/007_resources.html)
