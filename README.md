@@ -35,6 +35,8 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - [2021 Microbiome Informatics Webinars](https://www.youtube.com/playlist?list=PLiiqmjBmdWoPiBdoAmwtbnRm2Vj1BO_gO) by OSU Center of Microbiome Science
 
+- [Bioinformatics Workbook](https://bioinformaticsworkbook.org/) A tutorial to help scientists design their projects and analyze their data.
+
 PLUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/),
 
 📻 **podcasts**:
