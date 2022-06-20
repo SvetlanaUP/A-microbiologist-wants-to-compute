@@ -92,6 +92,8 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
 
 ## Python
 
+- ✅ [Biology meets Programming - Introduction to Bioinformatics using Python](https://github.com/snowformatics/Bioinformatics) by deNBI
+
 - [30 Days of Python](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6) by Justin Mitchel *first 8 lessons
 
 - ✅ [LxMLS2020 Intro to Python](https://www.youtube.com/watch?v=t3ipChpkYgc&list=PLam4sUtHYhYBPHSvRQrw8JVMRZgkEYLRn) by Luis Pedro Coelho 
