@@ -37,6 +37,8 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - [Bioinformatics Workbook](https://bioinformaticsworkbook.org/) A tutorial to help scientists design their projects and analyze their data.
 
+- [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html) by Gregory Caporaso. 
+
 PLUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/),
 
 📻 **podcasts**:
