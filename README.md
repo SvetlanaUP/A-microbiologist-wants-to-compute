@@ -39,6 +39,8 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - [An Introduction to Applied Bioinformatics](https://readiab.org/introduction.html) by Gregory Caporaso. 
 
+- ✅ [Metagenomics tools etc.](https://www.youtube.com/@BigDataBiology) by Big Data Biology Lab.
+
 PLUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/),
 
 📻 **podcasts**:
