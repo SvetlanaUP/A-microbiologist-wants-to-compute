@@ -41,7 +41,9 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 - ✅ [Metagenomics tools etc.](https://www.youtube.com/@BigDataBiology) by Big Data Biology Lab.
 
-- 🇪🇸 [Bioinformática Microbiana](https://bioinformatica.ciad.mx/) by Bruno Gómez Gil & Abraham Guerrero.
+- 🇪🇸 [Bioinformática Microbiana](https://bioinformatica.ciad.mx/) by Bruno Gómez Gil and Abraham Guerrero.
+
+- 🇪🇸 [Genomas a partir de metagenomas](https://dianaoaxaca.github.io/Microbioma_del_pozol_inecol/02.Binning.html) by Diana Hernández Oaxaca and Mirna Rosas Vázquez Landa.
 
 PLUS, check out this list of **bioinformatics books** [here](https://www.biostars.org/p/181/),
 
