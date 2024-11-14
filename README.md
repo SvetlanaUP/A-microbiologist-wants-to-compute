@@ -98,6 +98,13 @@ The experienced bioinformaticians Fatemeh Vafaee, Matt Field, Nikeisha Caruana, 
 - [Understand how to write a good commit message through memes 😉](https://medium.com/@hritik.jaiswal/how-to-write-a-good-commit-message-9d2d533b9052) by Hritik Jaiswal
 ![alt text](https://miro.medium.com/max/1400/1*gwlr9npJkP4TUSNvUNfEhA.png)
 
+## R
+
+- [Bioconductor for Genomic Data Science](https://kasperdanielhansen.github.io/genbioconductor/) by Kasper Daniel Hansen
+
+- [Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1/) by Rafael Irizarry
+
+
 ## Python
 
 - ✅ [Biology meets Programming - Introduction to Bioinformatics using Python](https://github.com/snowformatics/Bioinformatics) by deNBI
