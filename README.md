@@ -13,6 +13,8 @@ KUDOS to all bioinformaticians and computational scientists who are sharing thei
 
 ## Bioinformatics for beginners
 
+- ✅ [Bioinformatics for the terrified: An introduction to the science of bioinformatics](https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/) by Cath Brooksbank and Andrew Cowley
+
 - ✅ [Code Club](https://riffomonas.org/code_club/) by @PatSchloss
 
 - ✅ [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by @SherlockpHolmes and @wolfgangkhuber
